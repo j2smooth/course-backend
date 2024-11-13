@@ -1,0 +1,19 @@
+{
+  "name": "course-backend",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "client": "node client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^5.0.1"
+  }
+}
